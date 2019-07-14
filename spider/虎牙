@@ -1,0 +1,168 @@
+{
+  'status': 1000,
+  'time': 1562922508,
+  'result': {
+    'chats': [
+      {
+        'role': 0,
+        'nick': '陌生人426',
+        'sendTime': 1562922507,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '真实'
+      },
+      {
+        'role': 0,
+        'nick': '药宝',
+        'sendTime': 1562922504,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '666666666'
+      },
+      {
+        'role': 0,
+        'nick': '李一蕊',
+        'sendTime': 1562922502,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '太浪了'
+      },
+      {
+        'role': 0,
+        'nick': '阿靖呀',
+        'sendTime': 1562922498,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '多少星了'
+      },
+      {
+        'role': 0,
+        'nick': '我是一颗小虎牙',
+        'sendTime': 1562922498,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '919'
+      },
+      {
+        'role': 0,
+        'nick': '抬头泪就不会流',
+        'sendTime': 1562922496,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '快拆啊'
+      },
+      {
+        'role': 0,
+        'nick': '潇妹儿【寒冰助理】',
+        'sendTime': 1562922495,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '哇 欢迎 开心公爵 大驾光临进入冰冰直播间'
+      },
+      {
+        'role': 0,
+        'nick': '隔壁老王',
+        'sendTime': 1562922495,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '919'
+      },
+      {
+        'role': 0,
+        'nick': '陌生人426',
+        'sendTime': 1562922495,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '6'
+      },
+      {
+        'role': 0,
+        'nick': '史蒂芬森',
+        'sendTime': 1562922493,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '6666666'
+      },
+      {
+        'role': 0,
+        'nick': '乐圣宇宙【唯爱雨夜】',
+        'sendTime': 1562922492,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '哈哈哈'
+      },
+      {
+        'role': 0,
+        'nick': '【甘蔗团】小小浪',
+        'sendTime': 1562922492,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '收王者荣耀 cf'
+      },
+      {
+        'role': 0,
+        'nick': '凉白开',
+        'sendTime': 1562922490,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '第二天'
+      },
+      {
+        'role': 0,
+        'nick': '潇妹儿【寒冰助理】',
+        'sendTime': 1562922490,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '大家帮主播分享下直播间'
+      },
+      {
+        'role': 0,
+        'nick': '陌生人426',
+        'sendTime': 1562922489,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '哈哈'
+      },
+      {
+        'role': 0,
+        'nick': '潇妹儿【寒冰助理】',
+        'sendTime': 1562922487,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '哇 欢迎 尖沙咀段坤公爵 大驾光临进入冰冰直播间'
+      },
+      {
+        'role': 0,
+        'nick': '丧夜薄魃',
+        'sendTime': 1562922486,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '..'
+      },
+      {
+        'role': 0,
+        'nick': '陌生人426',
+        'sendTime': 1562922486,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '寒冰帅'
+      },
+      {
+        'role': 0,
+        'nick': '潇妹儿【寒冰助理】',
+        'sendTime': 1562922485,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': 'BGM网易云搜：虎牙东辰寒冰'
+      },
+      {
+        'role': 0,
+        'nick': '心%烦',
+        'sendTime': 1562922484,
+        'badgeName': '',
+        'badgeLevel': 0,
+        'chat': '我觉得送外卖很有看点！！真的'
+      }
+    ]
+  }
+}
